@@ -34,7 +34,7 @@ cd ScientificTextClassification
 pip install -r requirements.txt
 ```
 
-### Data used:
+## Data used:
 
 The available data for the classification is the following:
 
