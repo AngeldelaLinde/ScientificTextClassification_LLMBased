@@ -28,7 +28,15 @@ git clone https://github.com/yourusername/ScientificTextClassification.git
 cd ScientificTextClassification
 ```
 
-The available data is the following:
+2. Install the required packages:
+
+```
+pip install -r requirements.txt
+```
+
+### Data used:
+
+The available data for the classification is the following:
 
 | Field Name          | Description                                                     |
 |---------------------|-----------------------------------------------------------------|
