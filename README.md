@@ -10,8 +10,7 @@ The evaluation criteria for the model is the average ROC AUC value of each categ
 The uploaded notbook is idiveid in the following categories:
 1. data_preprocessing
 2. model_training
-3. model_evaluation
-4. inference
+3. model_inference
 
 ## Getting Started
 
