@@ -44,8 +44,23 @@ This project aims to classify scientific texts into 34 different topics using La
 ```
 git clone https://github.com/yourusername/ScientificTextClassification.git
 cd ScientificTextClassification
-´´´
+```
 
 \begin{itemize}
 \item{}
 \end{itemize}
+
+| Field Name          | Description                                                     |
+|---------------------|-----------------------------------------------------------------|
+| projectID           | Unique ID associated with each project                          |
+| startDate           | Date of the beginning of the project                             |
+| endDate             | Date of the ending of the project                                |
+| totalCost           | Total cost of the project declared by the applicants             |
+| ecMaxContribution   | Maximum expenses that will be covered by the grant               |
+| frameworkProgramme  | FP7, H2020, or HE - Multiannual EU program associated to the project. To work with categorical variables, we advise using one-hot-encoding codification |
+| Number of papers    | Number of published papers that acknowledge funding from the project |
+| Number of patents   | Number of patents resulting from the project                     |
+| TFIDF               | TF-IDF vectorization of the title and objective of the project   |
+| title               | Title of the project                                             |
+| Objective           | Summary of the project                                           |
+
