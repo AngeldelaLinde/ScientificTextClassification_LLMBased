@@ -1,6 +1,6 @@
 # ScientificTextClassification_LLMBased
 
-This project aims to classify scientific texts into 33 different topics using Large Language Models (LLMs), specifically utilizing the DeBERTa model. The topics include areas such as nutrition, endocrinology, optics, artificial intelligence, neurobiology, zoology, and more.
+This project aims to classify scientific texts into 34 different topics using Large Language Models (LLMs), specifically utilizing the DeBERTa model. The topics include areas such as nutrition, endocrinology, optics, artificial intelligence, neurobiology, zoology, and more. The same text can belong to more than one category or none of them.
 
 ## Project Structure
 
@@ -43,7 +43,8 @@ This project aims to classify scientific texts into 33 different topics using La
 
 ```
 git clone https://github.com/yourusername/ScientificTextClassification.git
-cd ScientificTextClassification´´´
+cd ScientificTextClassification
+´´´
 
 \begin{itemize}
 \item{}
