@@ -2,6 +2,9 @@
 
 This project aims to classify scientific texts into 34 different topics using Large Language Models (LLMs), specifically utilizing the DeBERTa model. The topics include areas such as nutrition, endocrinology, optics, artificial intelligence, neurobiology, zoology, and more. The same text can belong to more than one category or none of them.
 
+### Evaluation Criteria
+The evaluation criteria for the model is the average ROC AUC value of each category.
+
 ## Project Structure
 
 The uploaded notbook is idiveid in the following categories:
