@@ -24,7 +24,7 @@ The uploaded notebook is divided into the following parts:
 1. Clone the repository:
 
 ```
-git clone https://github.com/AngeldelaLinde/ScientificTextClassification.git
+git clone https://github.com/AngeldelaLinde/ScientificTextClassification_LLMBased.git
 cd ScientificTextClassification
 ```
 
