@@ -25,7 +25,8 @@ This project aims to classify scientific texts into 33 different topics using La
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-└── .gitignore```
+└── .gitignore
+´´´
 
 
 
