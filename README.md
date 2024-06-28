@@ -26,7 +26,7 @@ This project aims to classify scientific texts into 33 different topics using La
 ├── LICENSE
 ├── requirements.txt
 └── .gitignore
-´´´
+```
 
 
 
@@ -41,6 +41,10 @@ This project aims to classify scientific texts into 33 different topics using La
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/yourusername/ScientificTextClassification.git
 cd ScientificTextClassification´´´
+
+\begin{itemize}
+\item{}
+\end{itemize}
