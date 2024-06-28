@@ -7,7 +7,7 @@ The evaluation criteria for the model is the average ROC AUC value of each categ
 
 ## Project Structure
 
-The uploaded notebook is divided in the following categories:
+The uploaded notebook is divided into the following parts:
 1. data_preprocessing
 2. model_training
 3. model_inference
