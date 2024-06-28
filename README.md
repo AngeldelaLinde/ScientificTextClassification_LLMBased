@@ -26,3 +26,20 @@ This project aims to classify scientific texts into 33 different topics using La
 ├── LICENSE
 ├── requirements.txt
 └── .gitignore```
+
+
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- [pip](https://pip.pypa.io/en/stable/)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/ScientificTextClassification.git
+cd ScientificTextClassification´´´
