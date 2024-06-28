@@ -4,31 +4,11 @@ This project aims to classify scientific texts into 34 different topics using La
 
 ## Project Structure
 
-```ScientificTextClassification/
-│
-├── data/
-│   ├── raw/                  # Raw data files
-│   ├── processed/            # Processed data files
-│
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb  # Notebook for data preprocessing
-│   ├── 02_model_training.ipynb      # Notebook for model training
-│   ├── 03_model_evaluation.ipynb    # Notebook for model evaluation
-│   ├── 04_inference.ipynb           # Notebook for making predictions
-│
-├── scripts/
-│   ├── preprocess.py          # Script for data preprocessing
-│   ├── train.py               # Script for model training
-│   ├── evaluate.py            # Script for model evaluation
-│   ├── predict.py             # Script for making predictions
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-└── .gitignore
-```
-
-
+The uploaded notbook is idiveid in the following categories:
+1. data_preprocessing
+2. model_training
+3. model_evaluation
+4. inference
 
 ## Getting Started
 
@@ -62,4 +42,17 @@ The available data is the following:
 | title               | Title of the project                                             |
 | Objective           | Summary of the project                                           |
 
-After data analysis, the only meaningful information that provided classification criteria for the model is the Objective and title category.
+After data analysis, it was inferred that the only meaningful information that provided classification criteria for the model is the Objective and title category.
+
+## Authors
+
+This project was created and developed by:
+
+- Ángel de la Linde Valdés
+- Alexia Durán Vizcaíno
+- María Ordieres Álvarez
+
+We have worked collaboratively to design, implement, and test the scientific text classification model using LLMs. Each of us has contributed to different aspects of the project, including data preprocessing, model training, evaluation, and inference.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
