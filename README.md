@@ -46,9 +46,7 @@ git clone https://github.com/yourusername/ScientificTextClassification.git
 cd ScientificTextClassification
 ```
 
-\begin{itemize}
-\item{}
-\end{itemize}
+The available data is the following:
 
 | Field Name          | Description                                                     |
 |---------------------|-----------------------------------------------------------------|
@@ -64,3 +62,4 @@ cd ScientificTextClassification
 | title               | Title of the project                                             |
 | Objective           | Summary of the project                                           |
 
+After data analysis, the only meaningful information that provided classification criteria for the model is the Objective and title category.
